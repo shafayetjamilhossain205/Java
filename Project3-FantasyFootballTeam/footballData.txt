@@ -1,0 +1,44 @@
+QB
+Phil Sims
+Giants
+8
+100
+25
+12
+4000
+RB
+Jim Brown
+Browns
+12
+128
+1250
+8
+DB
+Spider Lockhart
+Giants
+14
+20
+5
+3
+QB
+Steve Young
+49ers
+8
+100
+25
+12
+3000
+RB
+Saquon Barkley
+Giants
+12
+110
+1254
+8
+DB
+Aqib Talib
+Rams
+14
+30
+7
+6
